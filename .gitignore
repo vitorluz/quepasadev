@@ -41,7 +41,7 @@ src/.dist/
 # symbolic link to src folder under linux
 quepasa/
 
-docker/.env
+#docker/.env
 docker/chatwoot/.env
 docker/chatwoot/data
 docker/chatwoot/.n8n
